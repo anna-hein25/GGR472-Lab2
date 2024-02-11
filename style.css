@@ -1,0 +1,18 @@
+.map-container {
+    position: absolute;
+    top: 20%;
+    bottom: 10%;
+    width: 100%;
+}
+.geojson-code {
+    position: relative;
+}
+.title {
+    background-color: rgb(50, 205, 120);
+    color: darkgreen;
+}
+.mapboxgl-popup {
+    max-width: 400px;
+    font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    background-color: darkgreen;
+    }
